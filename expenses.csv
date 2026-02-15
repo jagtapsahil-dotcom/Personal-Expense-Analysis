@@ -1,0 +1,11 @@
+Date, Category, Description, Amount, Payment_Mode, Budget
+2024-01-05, Food, Lunch, 150, Cash, 3000
+2024-01-07, Transport, Bus Pass, 500, UPI ,1500
+2024-01-10, Shopping, Clothes, 1200, Card, 2500
+2024-01-15, Food, Dinner, 300, Cash, 3000
+2024-02-02, Entertainment, Movie, 400, UPI, 1000
+2024-02-05, Food, Grocery, 800, Card, 3000
+2024-02-10, Bills, Electricity Bill, 950, UPI, 2000
+2024-02-18, Transport, Auto, 250, Cash, 1500
+2024-03-01, Food, Snacks, 700, Cash, 3000
+2024-03-05, Shopping, Shoes, 2000, Card, 2500
